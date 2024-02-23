@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AoT</string>
+    <string name="view_name">Name: </string>
+    <string name="view_height">Height: </string>
+    <string name="view_abilities">Abilities: </string>
+    <string name="view_current_inheritor">Current inheritor: </string>
+    <string name="view_former_inheritors">Former inheritors: </string>
+    <string name="view_allegiance">Allegiance: </string>
+</resources>
